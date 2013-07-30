@@ -7,6 +7,7 @@ public class test {
 		System.out.println();
 		System.out.println("1st");
 		System.out.println("2nd");
+		System.out.println("3rd");
 
 	}
 
